@@ -1,0 +1,8 @@
+{
+  "name": "unsplash/php-gallery",
+  "description": "Galeri gambar Unsplash dengan PHP",
+  "require": {},
+  "scripts": {
+    "start": "php -S 0.0.0.0:${PORT} index.php"
+  }
+}
